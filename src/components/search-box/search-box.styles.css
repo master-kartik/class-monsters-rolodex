@@ -1,0 +1,13 @@
+.search-box {
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: 'Bigelow Rules', cursive;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    padding: 10px;
+    width: 300px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+  
